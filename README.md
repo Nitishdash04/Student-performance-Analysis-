@@ -120,29 +120,14 @@ We implemented machine learning models to predict student performance based on f
 - Students with higher parental education levels tend to perform better.
 - Regular study habits and good attendance significantly improve performance.
 - Certain socio-economic factors have a notable impact on student outcomes.
-
----
-
-## **Usage**
-
-To run the analysis or model training scripts, use the following commands:
-
-```bash
-# Run the data preprocessing pipeline
-python src/data_preprocessing.py
-
-# Perform exploratory data analysis
-jupyter notebook notebooks/02_eda.ipynb
-
-# Train and evaluate the machine learning model
-python src/model_training.py
-```
-
----
-
+  
 ## **Contributing**
 
 Contributions are welcome! If you would like to contribute to this project, please fork the repository and submit a pull request with your improvements.
 
+## **Contact**
+[LinkedIn](https://www.linkedin.com/in/nitish-kr-dash/)
+
+[Email](dashnitish0@Gmail.com)
 
 
